@@ -1,8 +1,16 @@
-<h1> Hi🙋🏾‍♂️, I'm Isaac Perez  <br/>
-<span style="font-weight: bold; color: #007bff;">Cybersecurity Professional🖥️</span>
+<h1>
+  
 
-<br/>
 
+     
+                            Hi🙋🏾‍♂️, I'm Isaac Perez  
+                        Cybersecurity Professional🖥️
+    
+
+
+
+
+</P>
 <h2>
 Thank you for visiting my GitHub profile! I appreciate the time you took to visit here. <br/>On this page you will find links to projects and home labs that I have worked on. <br/>I love learning and getting hands on practice with IT and Cybersecurity principles. <br/>If you have any questions or feedback, please feel free to reach out via my <a href="https://www.linkedin.com/in/isaacperez533/">LinkedIn</a>.<br/> Have a good day 😊
   
