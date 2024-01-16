@@ -20,12 +20,8 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 - [Security +](https://www.credly.com/badges/684cea92-a905-44aa-b69c-0dd3fffb5f2c/public_url)
 
 
-<h5> 🤳 Connect with me:</h5>
+<h5> 🤖 Cyber Training With Skill Storm Daily Questions Answered:</h5>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/isaacperez533
+- [Security +](https://www.credly.com/badges/684cea92-a905-44aa-b69c-0dd3fffb5f2c/public_url)
 
