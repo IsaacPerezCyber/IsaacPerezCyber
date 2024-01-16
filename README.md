@@ -17,8 +17,7 @@
 
 - [Comptia A+](https://www.credly.com/badges/58ec40aa-9f43-4003-b13b-29918104f710/public_url)
 - [Security +](https://imgur.com/a/7NmUTFs)
-
-
+<img src="https://example.com/your-image.jpg" alt="Alt Text" style="float: right; margin: 10px;">
 
 <h5> 🤳 Connect with me:</h5>
 
@@ -27,5 +26,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/isaacperez533
 
