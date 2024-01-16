@@ -19,14 +19,10 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 <p align="left">
   A+<img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="10%" />
   Sec+<img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="10%" />
-  Azure <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="10%" />
+  Azure <img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="13%" />
 </p>
 
-<div style="border: 3px solid #ddd; padding: 10px;">
 
-Your content goes here.
-
-</div>
 
 
 
