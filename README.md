@@ -16,8 +16,8 @@
 <h4>📺 Certifications</h4>
 
 - [Comptia A+](https://www.credly.com/badges/58ec40aa-9f43-4003-b13b-29918104f710/public_url)
-- [Security +](https://imgur.com/a/7NmUTFs)
-<img src="https://example.com/your-image.jpg" alt="Alt Text" style="float: right; margin: 10px;">
+- [Security +](https://www.credly.com/badges/684cea92-a905-44aa-b69c-0dd3fffb5f2c/public_url)
+
 
 <h5> 🤳 Connect with me:</h5>
 
