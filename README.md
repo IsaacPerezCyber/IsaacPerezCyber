@@ -15,11 +15,8 @@
 
 - [Comptia A+](https://www.credly.com/badges/58ec40aa-9f43-4003-b13b-29918104f710/public_url)
 - [Security +](https://imgur.com/a/7NmUTFs)
-- ![Security +](https://imgur.com/a/7NmUTFs)
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h5> 🤳 Connect with me:</h5>
 
