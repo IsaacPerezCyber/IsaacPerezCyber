@@ -24,7 +24,7 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
   - [Malware Analysis]()
 
 
-<h4> 📃Certifications</h4>
+<h4> 📃Certifications </h4>
 
 <p align="left">
   <img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="17%" />
