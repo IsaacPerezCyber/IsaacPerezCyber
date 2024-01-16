@@ -3,8 +3,7 @@
 
 
 <br/>
-<br/>
-<br/>
+
 
 
 <h2>
@@ -12,8 +11,7 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
   
 </h2>
   <br/>
-  <br/>
-  <br/>
+  
   
   
   <h3>👨‍💻 Cybersecurity Projects:</h3>
