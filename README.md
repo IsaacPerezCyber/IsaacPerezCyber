@@ -8,7 +8,9 @@
   <h3>👨‍💻 Cybersecurity Projects:</h3>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com)
+  - [SIEM]()
+  - [Malware Analysis]()
 
 
 <h4>📺 Certifications</h4>
