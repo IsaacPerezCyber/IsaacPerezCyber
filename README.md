@@ -17,9 +17,9 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 <h4> 📃Certifications</h4>
 
 <p align="left">
-  A+<img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="10%" />
-  Sec+<img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="10%" />
-  Azure <img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="13%" />
+  <img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="10%" />
+  <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="10%" />
+  <img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="13%" />
 </p>
 
 
