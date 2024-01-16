@@ -19,7 +19,7 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 
   - [Active Directory Home Lab](https://github.com/IsaacPerezCyber/Active-Directory-Lab)
   - [SIEM](https://github.com/IsaacPerezCyber/SIEM)
-  - [Dynamic Malware Analysis]()
+  - [Dynamic Malware Analysis](https://github.com/IsaacPerezCyber/DynamicMalwareAnalysis)
 
 
 <h4> 📃 Certifications </h4>
