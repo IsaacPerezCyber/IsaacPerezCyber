@@ -16,8 +16,20 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 
 <h4> 📃Certifications</h4>
 
-- [Comptia A+](https://www.credly.com/badges/58ec40aa-9f43-4003-b13b-29918104f710/public_url)
-- [Security +](https://www.credly.com/badges/684cea92-a905-44aa-b69c-0dd3fffb5f2c/public_url)
+<p align="left">
+  A+<img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="10%" />
+  Sec+<img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="10%" />
+  Azure <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="10%" />
+</p>
+
+<div style="border: 3px solid #ddd; padding: 10px;">
+
+Your content goes here.
+
+</div>
+
+
+
 
 
 <h5> 🤖 Cyber Training With Skill Storm Daily Questions Answered:</h5>
