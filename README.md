@@ -10,7 +10,6 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
   <br/>
   
   
-  
   <h3>👨‍💻 Cybersecurity Projects:</h3>
 
 
@@ -30,12 +29,9 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 <img src="https://i.imgur.com/agnTLRr.jpeg" height="10%" width="17%" />
 <img src="https://i.imgur.com/HBrqw3S.jpeg" height="10%" width="17%" />
 </p>
+<br/>
 
-
-<h5> 🤖 Cyber Training With Skill Storm Daily Questions Answered:</h5>
-
-
-- [Technical Questions Answered](https://github.com/IsaacPerezCyber/Cyber-Training)
+🤖 [Cyber Training With Skill Storm Daily Questions Answered](https://github.com/IsaacPerezCyber/Cyber-Training) 🔒
 
 <p align="right">
 <img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" alt="TryHackMe" height="20%" width="20%">
