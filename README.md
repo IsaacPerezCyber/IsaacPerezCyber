@@ -1,6 +1,11 @@
 <h1>Hi, I'm Isaac  <br/>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 <h2>
-<h3>👨‍💻 Cybersecurity Projects:</h3>
+
+  
+  
+  
+  
+  <h3>👨‍💻 Cybersecurity Projects:</h3>
 
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,12 +23,10 @@
 
 <h5> 🤳 Connect with me:</h5>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 [linkedin]: https://linkedin.com/in/joshmadakor
 
