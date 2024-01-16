@@ -41,10 +41,12 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 
 🤖 [Cyber Training With Skill Storm Daily Questions Answered](https://github.com/IsaacPerezCyber/Cyber-Training) 🔒
 
-<p align="right">
-<img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" alt="TryHackMe" height="20%" width="20%">
 
 <h6> Sources for Continued Learning </h6>
 <p align="left">
 1. <a href="https://github.com/Berkanktk/CyberSecurity">Favorite Repo</a> <br/>
 2. <a href="https://www.youtube.com/@_JohnHammond"> John Hammond </a>
+
+
+<p align="right">
+<img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" alt="TryHackMe" height="20%" width="20%">
