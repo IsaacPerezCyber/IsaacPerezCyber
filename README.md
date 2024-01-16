@@ -17,9 +17,13 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 <h4> 📃Certifications</h4>
 
 <p align="left">
-  <img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="10%" />
-  <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="10%" />
-  <img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="13%" />
+  <img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="17%" />
+  <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="17%" />
+  <img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="23%" />
+</p>
+<p align="left"> 
+<img src="https://i.imgur.com/agnTLRr.jpeg" height="10%" width="17%" />
+<img src="https://i.imgur.com/HBrqw3S.jpeg" height="10%" width="17%" />
 </p>
 
 
