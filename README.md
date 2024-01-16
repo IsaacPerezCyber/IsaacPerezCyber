@@ -40,4 +40,4 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 - [Cyber Security Related Technical Questions Answered](https://github.com/IsaacPerezCyber/Cyber-Training)
 
 <p align="right">
-<img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" height="10%" width="10%">
+<img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" height="20%" width="20%">
