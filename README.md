@@ -5,14 +5,18 @@
      
                             Hi🙋🏾‍♂️, I'm Isaac Perez  
                         Cybersecurity Professional🖥️
-    
+  
+<p align="center">
+<img src="https://i.imgur.com/7pgp252.gif" height="10%" width="30%" /> 
+<img src="https://i.imgur.com/ot70N0F.gif" height="10%" width="30%" />
+<img src="https://i.imgur.com/SehjXZM.gif" height="10%" width="30%" />
+<img src="https://i.imgur.com/Zd8nwVH.gif" height="10%" width="30%" />
+<img src="https://i.imgur.com/UUPXjMo.gif" height="10%" width="30%" />
+  
 
 
-
-
-</P>
 <h2>
-Thank you for visiting my GitHub profile! I appreciate the time you took to visit here. <br/>On this page you will find links to projects and home labs that I have worked on. <br/>I love learning and getting hands on practice with IT and Cybersecurity principles. <br/>If you have any questions or feedback, please feel free to reach out via my <a href="https://www.linkedin.com/in/isaacperez533/">LinkedIn</a>.<br/> Have a good day 😊
+Thank you for visiting my GitHub profile! I appreciate the time you took to visit here. <br/>On my page you will find links to projects and home labs that I have worked on. <br/>I love learning and getting hands on practice with IT and Cybersecurity principles. <br/>If you have any questions or feedback, please feel free to reach out via my <a href="https://www.linkedin.com/in/isaacperez533/">LinkedIn</a>.<br/> Have a good day 😊
   
 </h2>
   <br/>
@@ -24,6 +28,7 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
   - [Active Directory Home Lab](https://github.com/IsaacPerezCyber/Active-Directory-Lab)
   - [SIEM](https://github.com/IsaacPerezCyber/SIEM)
   - [Dynamic Malware Analysis](https://github.com/IsaacPerezCyber/DynamicMalwareAnalysis)
+   
 
 
 <h4> 📃 <ins>Certifications</ins> </h4>
