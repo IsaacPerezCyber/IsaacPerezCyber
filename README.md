@@ -55,4 +55,5 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 
 
 <p align="right">
-<img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" alt="TryHackMe" height="20%" width="20%">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" width="20%"/>
