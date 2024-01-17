@@ -56,10 +56,10 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 | ---- | ----------- |
 | 1    | <a href="https://github.com/Berkanktk/CyberSecurity">Favorite Repo</a>    |
 | 2    | <a href="https://www.youtube.com/@_JohnHammond"> John Hammond </a>   |
-| 3    | Do the other|
-
-
-
+| 3    | <a href="https://www.sans.org/white-papers/">SANS Security White Papers</a> |
+| 4    | <a href="https://tryhackme.com/dashboard">TryHackMe</a>                                                                   |
+| 5    | <a href="https://www.comptia.org/">Comptia</a>   |                                                       |
+| 6    | <a href="https://www.youtube.com/@NetworkChuck">Network Chuck</a>  |
 <p align="right">
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" width="20%"/>
