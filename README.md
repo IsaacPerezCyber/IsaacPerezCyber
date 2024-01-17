@@ -49,7 +49,9 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 <a href="https://github.com/IsaacPerezCyber/Cyber-Training">Technical Questions Answered</a>
 
 
-<h6> Sources for Continued Learning </h6>
+<h6> Sources for Continued Learning
+  <br/> (subject to additions)
+</h6>
 <p align="left">
 
 |   |    |
