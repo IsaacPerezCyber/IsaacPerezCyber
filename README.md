@@ -7,11 +7,12 @@
                         Cybersecurity Professional🖥️
   
 <p align="center">
-<img src="https://i.imgur.com/7pgp252.gif" height="10%" width="30%" /> 
-<img src="https://i.imgur.com/ot70N0F.gif" height="10%" width="30%" />
-<img src="https://i.imgur.com/SehjXZM.gif" height="10%" width="30%" />
-<img src="https://i.imgur.com/Zd8nwVH.gif" height="10%" width="30%" />
-<img src="https://i.imgur.com/UUPXjMo.gif" height="10%" width="30%" />
+<img src="https://i.imgur.com/7pgp252.gif" height="10%" width="19%" /> 
+<img src="https://i.imgur.com/ot70N0F.gif" height="10%" width="19%" />
+<img src="https://i.imgur.com/SehjXZM.gif" height="10%" width="19%" />
+<img src="https://i.imgur.com/UUPXjMo.gif" height="10%" width="19%" />
+<img src="https://i.imgur.com/Zd8nwVH.gif" height="10%" width="19%" />
+
   
 
 
