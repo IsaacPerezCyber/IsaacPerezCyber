@@ -44,10 +44,10 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 </p>
 
 
----
+***
 🤖 SkillStorm:🔒<br/>
 <a href="https://github.com/IsaacPerezCyber/Cyber-Training">Technical Questions Answered</a>
-***
+---
 
  Sources for Continued Learning<br/> (subject to additions)
 
