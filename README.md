@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/UUPXjMo.gif" height="10%" width="19%" />
 <img src="https://i.imgur.com/Zd8nwVH.gif" height="10%" width="19%" />
 
-  
+</h1>
 
 
 <h2>
@@ -22,14 +22,13 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 </h2>
   <br/>
   
-  
-  <h3>👨‍💻 Cybersecurity Projects:</h3>
+<h3>👨‍💻 Cybersecurity Projects:</h3>
 
 
   - [Active Directory Home Lab](https://github.com/IsaacPerezCyber/Active-Directory-Lab)
   - [SIEM](https://github.com/IsaacPerezCyber/SIEM)
   - [Dynamic Malware Analysis](https://github.com/IsaacPerezCyber/DynamicMalwareAnalysis)
-   
+  --- 
 
 
 <h4> 📃 <ins>Certifications</ins> </h4>
@@ -43,15 +42,22 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 <img src="https://i.imgur.com/agnTLRr.jpeg" height="10%" width="17%" />
 <img src="https://i.imgur.com/HBrqw3S.jpeg" height="10%" width="17%" />
 </p>
-<br/>
 
-🤖 [Cyber Training With Skill Storm Daily Questions Answered](https://github.com/IsaacPerezCyber/Cyber-Training) 🔒
+
+---
+<h5>🤖 SkillStorm:🔒</h5>
+<a href="https://github.com/IsaacPerezCyber/Cyber-Training">Technical Questions Answered</a>
 
 
 <h6> Sources for Continued Learning </h6>
 <p align="left">
-1. <a href="https://github.com/Berkanktk/CyberSecurity">Favorite Repo</a> <br/>
-2. <a href="https://www.youtube.com/@_JohnHammond"> John Hammond </a>
+
+|   |    |
+| ---- | ----------- |
+| 1    | <a href="https://github.com/Berkanktk/CyberSecurity">Favorite Repo</a>    |
+| 2    | <a href="https://www.youtube.com/@_JohnHammond"> John Hammond </a>   |
+| 3    | Do the other|
+
 
 
 <p align="right">
