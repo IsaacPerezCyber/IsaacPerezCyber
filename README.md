@@ -64,7 +64,7 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 | 5    | <a href="https://www.comptia.org/">Comptia</a>   |          
 | 6    | <a href="https://www.youtube.com/@NetworkChuck">Network Chuck</a>  |
 | 7    | <a href="https://www.youtube.com/@Cyberspatial">Cyberspatial</a>  |
-| 8    | <a href="https://www.youtube.com/live/OWzvhhNoRnM?si=69dg4RmH1Y7b8DGM">Cyberspatial</a>  |
+| 8    | <a href="https://www.youtube.com/live/OWzvhhNoRnM?si=69dg4RmH1Y7b8DGM">Cyber Daily</a>  |
 <p align="right">
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/IsaacPerez.png" width="20%"/>
