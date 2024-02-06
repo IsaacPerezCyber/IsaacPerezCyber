@@ -36,16 +36,16 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 # 📃Certifications 
 
 <p align="left">
-  <img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="17%" />
-  <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="17%" />
-  <img src="https://i.imgur.com/1EjZMgz.png" height="10%" width="17%" />
-  <img src="https://i.imgur.com/jixWiGy.png" height="10%" width="17%" />
+  <img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="20%" />
+  <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="20%" />
+  <img src="https://i.imgur.com/1EjZMgz.png" height="10%" width="20%" />
+  <img src="https://i.imgur.com/jixWiGy.png" height="10%" width="20%" />
   
 </p>
 <p align="left"> 
-<img src="https://i.imgur.com/agnTLRr.jpeg" height="10%" width="17%" />
-<img src="https://i.imgur.com/HBrqw3S.jpeg" height="10%" width="17%" /><br/>
-<img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="21%" />
+<img src="https://i.imgur.com/agnTLRr.jpeg" height="10%" width="20%" />
+<img src="https://i.imgur.com/HBrqw3S.jpeg" height="10%" width="20%" />
+<img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="27%" />
 </p>
 
 
