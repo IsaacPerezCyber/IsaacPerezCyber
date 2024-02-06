@@ -38,11 +38,14 @@ Thank you for visiting my GitHub profile! I appreciate the time you took to visi
 <p align="left">
   <img src="https://i.imgur.com/hYqoLYq.png" height="10%" width="17%" />
   <img src="https://i.imgur.com/ad5SWeJ.png" height="10%" width="17%" />
-  <img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="23%" />
+  <img src="https://i.imgur.com/1EjZMgz.png" height="10%" width="17%" />
+  <img src="https://i.imgur.com/jixWiGy.png" height="10%" width="17%" />
+  
 </p>
 <p align="left"> 
 <img src="https://i.imgur.com/agnTLRr.jpeg" height="10%" width="17%" />
-<img src="https://i.imgur.com/HBrqw3S.jpeg" height="10%" width="17%" />
+<img src="https://i.imgur.com/HBrqw3S.jpeg" height="10%" width="17%" /><br/>
+<img src="https://i.imgur.com/z8VNghK.jpeg" height="20%" width="21%" />
 </p>
 
 
